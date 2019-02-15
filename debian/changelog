@@ -1,3 +1,9 @@
+libibmad (1.3.12-2-5ifs+deb8sci8+opa10.8u1) scibian8+opa10.8; urgency=medium
+
+  * build libibumad for scibian8+opa10.8
+
+ -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Fri, 15 Feb 2019 13:46:41 +0100
+
 libibmad (1.3.12-2-5ifs+deb8) jessie; urgency=medium
 
   * Remove upstream entries from d/changelog.
