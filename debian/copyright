@@ -14,6 +14,7 @@ License: OpenIB.org-BSD or GPL-2
 Files: debian/*
 Copyright: 2008 Genome Research Ltd
            2016-2018 System Fabric Works, Inc. <info@systemfabricworks.com>
+           2019 Scibian Project <legal@scibian.org>
 License: GPL-2+
  This program is free software; you can redistribute it
  and/or modify it under the terms of the GNU General Public
